@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Button theme. -->
+    <style name="ButtonTheme" parent="Widget.AppCompat.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/colorUdacityOrange</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:layout_marginTop">@dimen/button_margin_top</item>
+        <item name="android:onClick">onClick</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
